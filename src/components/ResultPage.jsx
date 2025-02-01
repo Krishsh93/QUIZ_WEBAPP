@@ -132,7 +132,7 @@ const ResultPage = () => {
                                         <div className="w-10 h-10 rounded-lg bg-slate-800 flex items-center justify-center text-slate-400">
                                             {powerUpIcons[type]}
                                         </div>
-                                        <span className="text-sm text-slate-400">{remainingUses - 2}</span>
+                                        <span className="text-sm text-slate-400">{2-remainingUses}</span>
                                         {active && <span className="text-xs text-emerald-400">Active</span>}
                                     </div>
                                 ))}

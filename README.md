@@ -36,6 +36,12 @@ This project is an interactive quiz web application designed to test users' know
 5. Open the application in your browser:
     - Go to `http://localhost:3000` to start taking the quiz.
 
+![Home Page](./images/home.png)
+![Quiz](./images/quiz.png)
+![Result](./images/result.png)
+
+## Demo Video 🎥  
+[Watch the Demo](https://www.youtube.com/watch?v=6nlLGD_8MSU)
 ## Usage
 - Upon loading the homepage, you will see an introduction to the quiz.
 - Start the quiz by clicking on the **Take the Quiz** button.
